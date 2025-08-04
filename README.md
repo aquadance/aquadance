@@ -3,16 +3,16 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm a Developer! 👋
+  Привет! Я — Разработчик 👋
 </h1>
 
 <p align="center">
-  I'm a passionate developer with a love for exploring any technology that I can get my hands on. <br> From low-level languages and system programming to web and game development, I'm on a journey of constant learning!
+  Я увлеченный разработчик с планеты Земля 🌍, который обожает изучать любые технологии, до которых дотягиваются руки. <br> От низкоуровневых языков и системного программирования до веба и разработки игр — я нахожусь в путешествии постоянного обучения!
 </p>
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🛠️ Мой стек технологий и инструменты
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -32,16 +32,24 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Моя статистика на GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=dracula" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Статистика GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=dracula" alt="Топ языков" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" alt="Статистика коммитов"/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
