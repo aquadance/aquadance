@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  I'm a passionate developer from planet Earth 🌍 with a love for exploring any technology that I can get my hands on. <br> From low-level languages and system programming to web and game development, I'm on a journey of constant learning!
+  I'm a passionate developer with a love for exploring any technology that I can get my hands on. <br> From low-level languages and system programming to web and game development, I'm on a journey of constant learning!
 </p>
 
 ---
