@@ -3,17 +3,17 @@
 </div>
 
 <h1 align="center">
-  Привет! Я разработчик 👋
+  Hello! I am a developer 👋
 </h1>
 
 <p align="center">
-  Я увлеченный разработчик, который любит изучать любые технологии, до которых могу дотянуться. <br>
-  От низкоуровневых языков и системного программирования до веб-разработки и создания игр — я нахожусь в пути постоянного обучения!
+  I am a passionate developer who enjoys learning about any technology I can get my hands on.
+  From low-level languages and system programming to web development and game creation, I am on a path of continuous learning!
 </p>
 
 ---
 
-### 🛠️ Мой стек технологий и инструменты
+### 🛠️ My technology stack and tools
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
+### 📊 My statistics on GitHub
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
